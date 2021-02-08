@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/robot-ui/static/css/main.e3a9ed8e.chunk.css",
+    "main.js": "/robot-ui/static/js/main.3d6841e6.chunk.js",
+    "main.js.map": "/robot-ui/static/js/main.3d6841e6.chunk.js.map",
+    "runtime-main.js": "/robot-ui/static/js/runtime-main.87bb3dcb.js",
+    "runtime-main.js.map": "/robot-ui/static/js/runtime-main.87bb3dcb.js.map",
+    "static/js/2.fcf0a807.chunk.js": "/robot-ui/static/js/2.fcf0a807.chunk.js",
+    "static/js/2.fcf0a807.chunk.js.map": "/robot-ui/static/js/2.fcf0a807.chunk.js.map",
+    "index.html": "/robot-ui/index.html",
+    "static/css/main.e3a9ed8e.chunk.css.map": "/robot-ui/static/css/main.e3a9ed8e.chunk.css.map",
+    "static/js/2.fcf0a807.chunk.js.LICENSE.txt": "/robot-ui/static/js/2.fcf0a807.chunk.js.LICENSE.txt",
+    "static/media/loading.3e931c09.gif": "/robot-ui/static/media/loading.3e931c09.gif",
+    "static/media/robo.021b2239.gif": "/robot-ui/static/media/robo.021b2239.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87bb3dcb.js",
+    "static/js/2.fcf0a807.chunk.js",
+    "static/css/main.e3a9ed8e.chunk.css",
+    "static/js/main.3d6841e6.chunk.js"
+  ]
+}
