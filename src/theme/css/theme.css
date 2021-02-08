@@ -1,0 +1,19 @@
+* {
+  transition: background 0.4s !important;
+}
+.dark_theme {
+  background: #333 !important;
+  color: #ddd !important;
+}
+section.dark_theme {
+  background: #100e17 !important;
+}
+div.dark_theme {
+ background-color: #111 !important;
+}
+.dark_theme a {
+  color: #b9c4e9 !important;
+}
+.dark_theme a:hover {
+  color: #e2e7f8 !important;
+}
